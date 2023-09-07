@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
  * main - a program that prints aline with a function.
- * Return:0(success)
- */
+ * Return:0(Success)
+*/
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
-return (o);
+return (0);
 }
